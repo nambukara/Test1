@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(77, 74, 74);
+}
+div.gallery {
+    background-color: white;
+    margin: 25px;
+    border: 2px solid rgb(0, 0, 0);
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid rgb(255, 3, 3);
+  }
+  
+  div.gallery img {
+    width: 150px;
+    height: auto;
+    align:center;
+  }
+  
+  div.desc {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #p{
+    color: red;
+  }
+    
+  
+
+  #example1 {
+    background-image: url("p1.jpg");
+    padding: 15px;
+  }
+  #abc{
+    font-size: 75px;
+    color: aliceblue;
+    margin-top: 5px;
+
+  }
+
+  #main{
+    font-size:35px;
+    color: rgb(47, 28, 209);
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.562);
+    
+  }
+
+  #sub{
+    font-size:35px;
+    color: rgb(255, 0, 85);
+    text-align: right;
+    background-color: rgba(250, 235, 215, 0.562);
+    
+  }
+
+  table{
+    border: 1px solid rgb(58, 241, 104);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    
+}
+td,th{
+    text-align: center;
+    padding: 16px;
+    border: 1px solid rgb(58,241,104);
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 8px 3px;
+}
+
+.fa:hover {
+    opacity: 1;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #f51992;
+  color: white;
+}
+
+
+
+
+
+div.media{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  text-align: center;
+}
+ h2{
+  text-align: center;
+ }
+
+h3{ 
+  text-align: center;
+}
